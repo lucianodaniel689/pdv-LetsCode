@@ -8,7 +8,7 @@ Objetivo do projeto é realizar um escopo de um PDV onde nele podemos realizar o
 
 
 Para este projeto foram utilizadas 5 tabelas: endereço, cliente, loja, produto e pedido_venda.
-Onde na tabela endereço haverá uma Foreign Key relacionada com a tabela clientes, vinculando assim o cliente com seu devido endereço. E também a tabela pedido_venda estará relacionada juntamente com a tabela cliente, loja e produto para poder no final serem englobadas todas informações em somente uma tabela criando assim o pedido de venda final.
+Onde na tabela endereço haverá uma Foreign Key relacionada com a tabela cliente e loja, vinculando assim o cliente com seu devido endereço. E também a tabela pedido_venda estará relacionada juntamente com a tabela cliente, loja e produto para poder no final serem englobadas todas informações em somente uma tabela criando assim o pedido de venda final.
 
 
 
